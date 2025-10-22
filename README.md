@@ -1,108 +1,156 @@
+<div align="center">
+
 # Aayisha O S
 
-**Software Developer** | Full-Stack Development | Mobile Application Development
+### Software Development Student | Android Developer | MERN Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/aayisha-o-s)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:osaayisha314@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=aayishaos&color=0e75b6&style=flat)](https://github.com/aayishaos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayisha-o-s)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:osaayisha314@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aayisha_sudheer)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=aayishaos&color=blueviolet&style=flat-square)
 
-## Professional Summary
-
-Results-driven Software Developer specializing in Android application development and full-stack web solutions. Currently advancing expertise in Software Application Development with a strong foundation in MVVM architecture, MERN stack, and enterprise Java development. Committed to writing clean, maintainable code and delivering scalable solutions that meet business objectives.
-
----
-
-## Technical Expertise
-
-### Programming Languages
-`Java` `Kotlin` `JavaScript` `C` `C++` `Swift` `PHP`
-
-### Mobile Development
-- **Android Development**: MVVM Architecture, Android Studio, Material Design
-- **Cross-Platform**: Flutter
-- **iOS**: Swift
-
-### Web Development
-- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: Node.js, Express.js
-- **Architecture**: RESTful APIs, MVC Pattern
-
-### Database Management
-- **NoSQL**: MongoDB
-- **SQL**: MySQL, PostgreSQL
-- **ORM/ODM**: Mongoose, Sequelize
-
-### Cloud & DevOps
-- **Cloud Platforms**: AWS, Firebase
-- **Version Control**: Git, GitHub
-- **API Testing**: Postman
-- **Design Tools**: Figma
-
----
-
-## Core Competencies
-
-- 📱 **Mobile Application Development** - Building responsive, user-centric Android applications
-- 🌐 **Full-Stack Web Development** - End-to-end development using modern JavaScript frameworks
-- 🏗️ **System Architecture** - Designing scalable, maintainable software architectures
-- 🔄 **Agile Methodologies** - Collaborative development and iterative improvement
-- 🧪 **Problem Solving** - Strong analytical and debugging skills
-- 📊 **Database Design** - Optimizing data structures and queries for performance
-
----
-
-## GitHub Analytics
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayishaos&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishaos&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 </div>
 
 ---
 
-## Current Focus
+## 👋 About Me
 
-- 🎓 Pursuing advanced studies in Software Application Development
-- 🔨 Building production-ready applications using modern frameworks
-- 📚 Expanding knowledge in cloud architecture and microservices
-- 🤝 Open to collaboration on innovative projects and open-source contributions
+I'm a **Software Development student** passionate about building impactful applications. My primary focus is on **Android Development** and **Full-Stack Web Development** using the **MERN Stack**. I'm actively seeking opportunities to apply my skills in real-world projects and contribute to innovative solutions.
 
----
-
-## Areas of Interest
-
-- Enterprise Application Development
-- Mobile-First Design
-- Cloud-Native Solutions
-- Software Architecture Patterns
-- API Design and Integration
-- Database Optimization
+```yaml
+Current Status: Final year Software Development student
+Primary Focus: Android Development (MVVM) & MERN Stack
+Learning: Advanced Software Application Development
+Goal: Launch a professional career in mobile and web development
+Available: For internships, full-time roles, and collaborative projects
+```
 
 ---
 
-## Connect With Me
-
-I'm actively seeking opportunities to contribute to challenging projects and grow as a software professional. Feel free to reach out for:
-
-- **Collaboration** on open-source projects
-- **Professional networking** and knowledge exchange
-- **Job opportunities** in software development
-- **Technical discussions** and mentorship
-
-📧 **Email**: osaayisha314@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/aayisha-o-s](https://linkedin.com/in/aayisha-o-s)  
-📱 **Instagram**: [@aayisha_sudheer](https://instagram.com/aayisha_sudheer)
-
----
+## 💼 Technical Skills
 
 <div align="center">
 
-*"Striving for excellence in code quality, performance, and user experience"*
+### Core Technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Specializations
+
+| **Android Development** | **Web Development (MERN)** | **Additional Skills** |
+|------------------------|---------------------------|----------------------|
+| Android Studio | MongoDB | Git & GitHub |
+| MVVM Architecture | Express.js | RESTful APIs |
+| Kotlin & Java | React.js | MySQL & PostgreSQL |
+| Material Design | Node.js | AWS & Firebase |
+| Flutter | HTML5 & CSS3 | Figma & Postman |
 
 </div>
 
 ---
 
-<sub>⭐ If you find my work valuable, consider starring my repositories</sub>
+## 🎯 What I'm Focused On
+
+- 📱 Building **scalable Android applications** using MVVM architecture
+- 🌐 Developing **full-stack web applications** with the MERN stack
+- 📚 Completing my **Software Development** degree program
+- 🚀 Creating **portfolio projects** that demonstrate real-world problem-solving
+- 💡 Learning **best practices** in software architecture and design patterns
+- 🤝 Seeking **internship and entry-level opportunities** to launch my career
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayishaos&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayishaos&theme=vue&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayishaos&layout=compact&theme=vue&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🚀 Key Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+**Mobile Development**
+- Android app architecture (MVVM)
+- Kotlin & Java programming
+- Material Design implementation
+- API integration
+- Local & remote data management
+
+</td>
+<td width="50%">
+
+**Web Development**
+- Full-stack MERN applications
+- RESTful API design & development
+- React component architecture
+- Database design (MongoDB, SQL)
+- Responsive web design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Software Engineering**
+- Object-Oriented Programming
+- Design patterns & principles
+- Version control (Git)
+- Agile development methodologies
+- Problem-solving & debugging
+
+</td>
+<td width="50%">
+
+**Professional Skills**
+- Clean code practices
+- Technical documentation
+- Team collaboration
+- Continuous learning
+- Attention to detail
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+I'm actively seeking **internship opportunities** and **entry-level positions** in Android Development or Full-Stack Web Development. I'm excited to:
+
+- 💼 Join a team where I can **contribute and grow**
+- 🤝 Collaborate on **meaningful projects**
+- 📖 Learn from **experienced professionals**
+- 🎯 Build a **successful career** in software development
+
+**Available for**: Internships | Full-time Roles | Freelance Projects | Open Source Collaboration
+
+<div align="center">
+
+### 📧 Contact Me
+
+**Email**: [osaayisha314@gmail.com](mailto:osaayisha314@gmail.com)  
+**LinkedIn**: [linkedin.com/in/aayisha-o-s](https://linkedin.com/in/aayisha-o-s)
+
+---
+
+<sub>💡 *Open to opportunities • Eager to learn • Ready to contribute*</sub>
+
+</div>
