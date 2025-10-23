@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayishaos&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/aayishaos?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Followers"/>
+  <!-- <img src="https://img.shields.io/github/followers/aayishaos?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="GitHub Followers"/> -->
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Status"/>
 </p>
 
