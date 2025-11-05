@@ -198,53 +198,6 @@ mindmap
 
 <div align="center">
 
-## 💼 Core Competencies
-
-</div>
-
-<details open>
-<summary><b>📱 Mobile Development Expertise</b></summary>
-<br/>
-
-- ✅ Android app architecture & design patterns (MVVM, MVC)
-- ✅ Kotlin & Java programming with best practices
-- ✅ Material Design 3 implementation
-- ✅ RESTful API integration & data management
-- ✅ Local database (Room) & remote data sync
-- ✅ Jetpack libraries (ViewModel, LiveData, Navigation)
-
-</details>
-
-<details open>
-<summary><b>🌐 Full-Stack Web Development</b></summary>
-<br/>
-
-- ✅ Complete MERN stack application development
-- ✅ RESTful API design, development & documentation
-- ✅ React component architecture & state management
-- ✅ MongoDB database design & optimization
-- ✅ Responsive & accessible web design
-- ✅ JWT authentication & authorization
-
-</details>
-
-<details open>
-<summary><b>💻 Software Engineering</b></summary>
-<br/>
-
-- ✅ Object-Oriented Programming principles
-- ✅ Design patterns & SOLID principles
-- ✅ Version control with Git & GitHub
-- ✅ Agile development methodologies
-- ✅ Test-driven development (TDD)
-- ✅ Code review & debugging expertise
-
-</details>
-
----
-
-<div align="center">
-
 ## 🏆 Achievements & Highlights
 
 </div>
@@ -265,7 +218,7 @@ mindmap
 
 ## 📫 Let's Connect & Collaborate
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
 
 </div>
 
@@ -297,13 +250,6 @@ mindmap
 <b>Collaborations</b>
 <br/>
 <sub>Open Source Projects</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/freelance.png" width="50"/>
-<br/>
-<b>Freelance Work</b>
-<br/>
-<sub>Project-Based</sub>
 </td>
 </tr>
 </table>
